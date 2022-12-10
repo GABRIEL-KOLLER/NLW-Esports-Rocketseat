@@ -3,8 +3,6 @@
  > Trilha Explorer
 
 
-![preview](/github/preview.png)
-
 Projeto contruido do evento Next Level Week da Rocketseat.
 
 [Clique aqui para acessar](https://GABRIEL-KOLLER.github.io/NLW-Esports-Rocketseat)
@@ -14,3 +12,6 @@ Projeto contruido do evento Next Level Week da Rocketseat.
 - HTML
 - CSS
 - Git e Github
+
+
+Deploy: https://nlwesportsmygames.netlify.app/
